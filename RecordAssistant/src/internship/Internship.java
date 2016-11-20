@@ -14,7 +14,7 @@ public class Internship {
 	public void test() {
 		System.out.println("Test ");
 		     
-		System.out.println("Test know how it works");
+		System.out.println("Test ok");
 		
 	}
 }
