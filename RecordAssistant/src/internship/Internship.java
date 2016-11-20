@@ -12,9 +12,7 @@ public class Internship {
 	
 	
 	public void test() {
-		System.out.println("Test ");
-		     
-		System.out.println("Test ok");
+		System.out.println("i guess so" );
 		
 	}
 }
