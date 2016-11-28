@@ -4,7 +4,7 @@
  * also houses the means to edit the data of an internship 
  * 
  * @author Patrick Sanchez
- * Here's some test text to see changes
+ * CHECK THIS OUT jAMES
  */
 package internship;
 
